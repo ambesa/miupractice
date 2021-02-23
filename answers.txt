@@ -1,0 +1,44 @@
+
+
+questions to answers
+anbesajer pawlos
+02/22/2021
+
+
+1- What happens when an assignment is performed without using let or const keywords in
+strict mode?
+ #answer-  error 
+
+
+
+
+ 2- List 5 reserved keywords in JavaScript.
+ #answer - break, case ,catch , defoult, delete, do ..etc ...
+
+  3- How is a computer program similar/ different than an algorithm.
+  # answer-  an algorith is self contained step by step operations to
+  be performed to solve a specific problem.
+  # computer program is a specific sequence of instructions in a specific
+  programing language.
+#similarities 
+-* both are made of instructions 
+
+3-  Write at least two algorithms you perform on your daily life, with at least one algorithm that can be
+converted to computer program.
+- a- waking up in the morning
+   - exercise for at least 10 minutes
+   - taking a shower 
+   - get ready for a breakfast 
+    
+    b- loundry 
+    - collect the clothes 
+    - get the soap 
+    - put into loundry machines
+    - put it in a drier 
+    - iron the shirts 
+    - forld all the cllothes 
+    
+     
+
+
+
